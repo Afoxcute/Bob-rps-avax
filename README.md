@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors on Ethereum
-# Smart Contract Link: https://sepolia.lineascan.build/address/0x2fA171a2F9F579A210516150B44bcE8d720e657A
+# Smart Contract Link: https://testnet.snowtrace.io/address/0x7296c77Edd04092Fd6a8117c7f797E0680d97fa1
 
 This is a decentralized Rock-Paper-Scissors game built on the Ethereum Avalanche Fuji  network. The application allows users to create and join games, track their move history, and view past game results, all while ensuring transparency and fairness through blockchain technology.
 
